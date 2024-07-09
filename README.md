@@ -1,7 +1,7 @@
-[![Header] (https://github.com/exane16/exane16/blob/master/assets/Без%20названия.png)](https://github.com/exane16/exane16)
+[![Header](https://github.com/exane16/exane16/blob/master/assets/Без%20названия.png)]
 
 About me
 
 ghlgkjblj,
 
-N KLN kmlm
+N KLN kmlmsss
