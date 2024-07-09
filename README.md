@@ -1,6 +1,10 @@
 ![Header](https://github.com/exane16/exane16/blob/master/assets/Без%20названия.png)
 
-## Я тестировщик
+## Обо мне:
+Я тестировщик
+
+### Социальные сети:
+[![Telegram](https://img.shields.io/badge/Telegram-12100E?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/oksana166)
 
 ## Тестовая документация
 ![Jira](https://img.shields.io/badge/Jira-12100E?style=for-the-badge&logo=Jira&logoColor=blue)
@@ -12,7 +16,7 @@
 ![Postman](https://img.shields.io/badge/Postman-12100E?style=for-the-badge&logo=Postman&logoColor=orange)
 ![Soapui](https://img.shields.io/badge/Soapui-12100E?style=for-the-badge&logo=Soapui&logoColor=yellow)
 
-### Рфбота с данными
+### Работа с данными
 ![Mysql](https://img.shields.io/badge/Mysql-12100E?style=for-the-badge&logo=Mysql&logoColor=blue)
 ![Jira](https://img.shields.io/badge/Jira-12100E?style=for-the-badge&logo=Jira&logoColor=blue)
 
